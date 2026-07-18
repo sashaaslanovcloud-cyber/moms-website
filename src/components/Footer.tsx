@@ -7,7 +7,7 @@ export const Footer: React.FC = () => {
       padding: '24px 48px',
       backgroundColor: '#ffffff',
       display: 'flex',
-      justify健全: 'space-between',
+      justifyContent: 'space-between',
       alignItems: 'center',
       flexWrap: 'wrap',
       gap: '12px',

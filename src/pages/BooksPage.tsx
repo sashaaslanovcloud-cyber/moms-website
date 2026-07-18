@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, Star, Sparkles, Heart } from 'lucide-react';
+import { BookOpen, Sparkles } from 'lucide-react';
 
 interface Book {
   id: string;
@@ -156,7 +156,7 @@ export const BooksPage: React.FC = () => {
                   fontSize: '0.85rem',
                   display: 'flex',
                   alignItems: 'center',
-                  justify-content: 'center',
+                  justifyContent: 'center',
                   gap: '6px',
                   marginTop: 'auto',
                 }}

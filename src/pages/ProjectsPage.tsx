@@ -1,5 +1,5 @@
 import React from 'react';
-import { Waves, TreePine, Lightbulb, HeartHandshake } from 'lucide-react';
+import { Waves, TreePine, Lightbulb } from 'lucide-react';
 
 interface Project {
   id: string;
