@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
 
 :root {
   --primary-teal: #1fa1b1;
@@ -58,11 +58,11 @@ body {
 }
 
 .header-title {
-  font-family: 'Outfit', sans-serif;
-  font-size: 3rem;
-  font-weight: 500;
+  font-family: 'Tangerine', cursive, sans-serif;
+  font-size: 4.2rem;
+  font-weight: 700;
   color: #ffffff;
-  letter-spacing: -0.5px;
+  letter-spacing: 1px;
   margin: 0;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
 }
@@ -161,11 +161,11 @@ body {
 
 /* Section Titles */
 .section-title {
-  font-family: 'Outfit', sans-serif;
-  font-size: 2.2rem;
-  font-weight: 500;
+  font-family: 'Tangerine', cursive, sans-serif;
+  font-size: 3.2rem;
+  font-weight: 700;
   color: #0f172a;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 .bio-text {

@@ -15,12 +15,12 @@ export const Footer: React.FC = () => {
       color: '#64748b'
     }}>
       <div>
-        © {new Date().getFullYear()} Юлия Асланова. Все права защищены.
+        © {new Date().getFullYear()} JuliaPortfolio &bull; Юлия Асланова. Все права защищены.
       </div>
       <div style={{ display: 'flex', gap: '16px', alignItems: 'center' }}>
         <span>Писательница &bull; Калифорния</span>
         <span style={{ background: '#f1f5f9', padding: '4px 8px', borderRadius: '4px', color: '#334155' }}>
-          Hosted on Vercel
+          JuliaPortfolio &bull; Hosted on Vercel
         </span>
       </div>
     </footer>
